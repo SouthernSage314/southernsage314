@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://x.com/penne_is_pasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="penne_not_pasta" height="30" width="40" /></a>
 <a href="https://instagram.com/azte.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azte.a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@penne_not_pasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="penne_not_pasta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pennenotpasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="penne_not_pasta" height="30" width="40" /></a>
 <a href="https://penne.blog/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://penne.blog/index.xml" height="30" width="40" /></a>
 </p>
 
