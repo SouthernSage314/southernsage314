@@ -13,9 +13,32 @@
 
 - 📝 I regularly write blog posts on [https://penne.blog/](https://penne.blog/)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### Skills
+
+#### Currently Learning:
+
+![c++](https://img.shields.io/badge/C_%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=%23fff)
+![DJS](https://img.shields.io/badge/DiscordJS-%235865F2?style=flat-square&logo=discorddotjs&logoColor=%23fff)
+![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23000)
+![PYTHON](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=%23fff)
+![bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=%23000)
+
+#### Know to fluency (*or mostly know*):
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff)
+![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=%23fff)
+![MD](https://img.shields.io/badge/MarkDown-%23000000?style=flat-square&logo=markdown&logoColor=%23fff)
+
+### OS(*'s*) I Use:
+
+![arch](https://img.shields.io/badge/Arch_Linux-%231793D1?style=flat-square&logo=archlinux&logoColor=%23fff&logoSize=auto)
+![ios](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=%23fff&logoSize=auto)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
