@@ -1,10 +1,9 @@
 # 💫 About Me:
-She/They; 17 y/o, Has a PHD in README Creation
+He/They; 17 y/o, Has a PHD in README Creation
 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pennenotpasta) 
-[![bsky](https://img.shields.io/badge/Bluesky-%231185FE?style=flat-square&logo=bluesky&logoColor=%23fff)](https://bsky.app/profile/pennenotpasta.com)
 
 # 💻 Tech Stack:
 
