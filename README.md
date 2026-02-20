@@ -1,41 +1,47 @@
-# 💫 About Me:
-He/They; 17 y/o, Has a PHD in README Creation
+# <img src="https://i.ibb.co/DHvM30F8/profile-pic2.png" width="75" height="75" style="border-radius: 50%;" /> Peyton | PenneNotPasta
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pennenotpasta) 
-
-# 💻 Tech Stack:
-
-![fedora](https://img.shields.io/badge/Fedora_Linux-%2351A2DA?style=flat-square&logo=fedora&logoColor=%23fff&logoSize=auto)
-![ios](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoColor=%23fff&logoSize=auto)
+### 🚀 Full-Stack Developer & Systems Enthusiast
+I'm a 17-year-old developer passionate about literally anything! Ask me about Music (or vinyl records), Crochet, Knitting, My Little Pony and I'll be so happy to yap to you!
 
 ---
 
-![MD](https://img.shields.io/badge/MarkDown-%23000000?style=flat-square&logo=markdown&logoColor=%23fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff)
-![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=%23fff)
-![php](https://img.shields.io/badge/php-php?style=flat-square&logo=php&logoColor=%23fff&logoSize=auto&labelColor=%23777BB4&color=%23777BB4)
-![hugo](https://img.shields.io/badge/Hugo.io-hugo?style=flat-square&logo=hugo&logoColor=%23fff&logoSize=auto&labelColor=%23FF4088&color=%23FF4088)
-![MySQL](https://img.shields.io/badge/MySQL-mysql?style=flat-square&logo=mysql&logoColor=%23fff&logoSize=auto&labelColor=%234479A1&color=%234479A1)
+### 🛠️ Languages & Tech Stack
 
+**Languages I Use Regularly:**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Currently Mastering (The "C" Quest & Assembly):**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
 ---
 
-![ZED](https://img.shields.io/badge/Zed-zedindustries?style=flat-square&logo=zedindustries&logoColor=%23fff&logoSize=auto&labelColor=%23084CCF&color=%23084CCF)
-![git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff)
-![ILPDF](https://img.shields.io/badge/ILovePDF-ilovepdf?style=flat-square&logo=ilovepdf&logoColor=%23fff&logoSize=auto&labelColor=%23E5322D&color=%23E5322D)
+### 🔭 What I’m Working On
+* **Web Dev:** Building responsive and dynamic web experiences.
+* **OS Dev:** Diving deep into kernels and systems architecture.
+* **Game Modding:** Tweaking and improving my favorite titles.
+* **Bot Dev:** Creating automation tools for various platforms.
 
+---
 
+### 🌐 Connect With Me
 
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@pennenotpasta)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/dBJa5XM9FA)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/PeytonsVinyls)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/azte.a)
+[<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://ko-fi.com/laceloopscrochet)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=penne-not-pasta&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+> **Note:** You can also find me on **Fluxer**, @ penne#6472 !
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/laceloopscrochet) 
+### 🍄 Other Things...
 
-
+> Coming soon...
