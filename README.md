@@ -1,47 +1,42 @@
-# <img src="https://i.ibb.co/DHvM30F8/profile-pic2.png" width="75" height="75" style="border-radius: 50%;" /> Peyton | PenneNotPasta
+# Hi there, I'm Sage 👋
 
-### 🚀 Full-Stack Developer & Systems Enthusiast
-I'm a 17-year-old developer passionate about literally anything! Ask me about Music (or vinyl records), Crochet, Knitting, My Little Pony and I'll be so happy to yap to you!
+### 🛠 OS Enthusiast & Web Developer
 
----
-
-### 🛠️ Languages & Tech Stack
-
-**Languages I Use Regularly:**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Currently Mastering (The "C" Quest & Assembly):**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
+![Age](https://img.shields.io/badge/Age-18-blue)
+![Pronouns](https://img.shields.io/badge/Pronouns-Any-purple)
+![Language](https://img.shields.io/badge/Native-English-brightgreen)
+![Learning](https://img.shields.io/badge/Learning-Chinese%20(A2--B1)-orange)
 
 ---
 
-### 🔭 What I’m Working On
-* **Web Dev:** Building responsive and dynamic web experiences.
-* **OS Dev:** Diving deep into kernels and systems architecture.
-* **Game Modding:** Tweaking and improving my favorite titles.
-* **Bot Dev:** Creating automation tools for various platforms.
+### 🚀 About Me
+I'm an 18-year-old developer balancing the high-level world of **Web Development** with the low-level intricacies of **Operating Systems**. I love figuring out how things work under the hood.
+
+- 💻 Currently diving deep into **OS Kernels** and **Systems Programming**.
+- 🌐 Building responsive, modern web applications.
+- 🇨🇳 Improving my Mandarin Chinese (currently at an A2-B1 level).
+- 💬 Ask me about anything related to tech or languages!
 
 ---
 
-### 🌐 Connect With Me
+### 🧰 Tech Stack & Tools
 
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@pennenotpasta)
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/dBJa5XM9FA)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/PeytonsVinyls)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/azte.a)
-[<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://ko-fi.com/laceloopscrochet)
-
-> **Note:** You can also find me on **Fluxer**, @ penne#6472 !
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Systems** | C, C++, Assembly, Rust, Kernel Dev |
+| **Web Dev** | HTML5, CSS3, JavaScript, PHP |
+| **Languages** | English (Native), Chinese (Intermediate) |
+| **Other** | Git, Linux |
 
 ---
 
-### 🍄 Other Things...
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=penne-not-pasta&show_icons=true&theme=transparent)
 
-> Coming soon...
+---
+
+### 📫 How to reach me
+- **LinkedIn:** https://www.linkedin.com/in/sage2008/
+- **Email:** pennenotpasta@proton.me
+
+*"The best way to predict the future is to invent it."*
