@@ -26,17 +26,10 @@ I'm an 18-year-old developer balancing the high-level world of **Web Development
 | **Systems** | C, C++, Assembly, Rust, Kernel Dev |
 | **Web Dev** | HTML5, CSS3, JavaScript, PHP |
 | **Languages** | English (Native), Chinese (Intermediate) |
-| **Other** | Git, Linux |
-
----
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=penne-not-pasta&show_icons=true&theme=transparent)
-
+| **Other** | Git |
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** https://www.linkedin.com/in/sage2008/
 - **Email:** pennenotpasta@proton.me
 
 *"The best way to predict the future is to invent it."*
