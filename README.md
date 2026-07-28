@@ -1,7 +1,7 @@
 <div align="center">
   
   # hi, i'm sage †
-  *also known as penny • she/they/he • 18 y/o*
+  *also known as star • she/they/he • 18 y/o*
 
   paving my way through web development, programming, and creation ♡
 
@@ -17,7 +17,6 @@
 ### ❦ about me
 *   🗣️ **languages** • English (Native) & 中文 (HSK2 | A2-B1)
 *   🛰️ **discord** • Community server coming soon!
-*   ✨ **creative focus** • Blending code, design, and multimedia projects.
 
 ---
 
@@ -34,12 +33,7 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   <br>
   <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/discord.js-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord.js">
 </p>
 
 ---
-
-<p align="center">🎒 <i>"getting life together, one line of code at a time."</i> ♡</p>
